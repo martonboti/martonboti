@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Science at Sapientia Hungarian University of Transylvania.
-- 💼 &nbsp; Working as a Backend developer at i2b studios.
+- 💼 &nbsp; Working as a Backend developer at i2b studio.
 
 <h3>🛠 Tech Stack</h3>
 
