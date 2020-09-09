@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | PHP | Laravel | GraphQL
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | Express | PHP | Laravel | GraphQL
 - 🛢 &nbsp; MySQL | PgSQL
 - 🔧 &nbsp; Git
 
