@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2> Hey there! I'm Boti.</h2>
 
-<!--
-**martonboti/martonboti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studied Computer Science at Sapientia Hungarian University of Transylvania.
+- 💼 &nbsp; Working as a Backend developer at i2b studios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | PHP | Laravel | GraphQL
+- 🛢 &nbsp; MySQL | PgSQL
+- 🔧 &nbsp; Git
+
+<br/>
+
+[![martonboti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martonboti&count_private=true&show_icons=true&hide=stars,prs,issues,contribs)](https://github.com/martonboti)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/martonboti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Márton%20Botond-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:martonbotix+github@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martonbotix+github@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
