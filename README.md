@@ -18,7 +18,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/martonboti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Márton%20Botond-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:martonbotix+github@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martonbotix+github@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
