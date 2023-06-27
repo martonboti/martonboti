@@ -8,8 +8,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | Express | PHP | Laravel | GraphQL
-- 🛢 &nbsp; MySQL | PgSQL
+- 🌐 &nbsp; JavaScript | Node.js | Typescript | NestJs | Express | PHP | Laravel | GraphQL
+- 🛢 &nbsp; MySQL | PgSQL | MongoDB
 - 🔧 &nbsp; Git
 
 <br/>
